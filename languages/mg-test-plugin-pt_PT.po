@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MG plugin test\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-03 20:55+0000\n"
+"PO-Revision-Date: 2021-10-22 09:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese (Portugal)\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.4; wp-5.8.1\n"
+"X-Domain: mg-test-plugin"
+
+msgid "Get Aweosome Table from external Api"
+msgstr "Saca dados para a tabela de API externa"
+
+msgid "Get Table from external Api"
+msgstr "Buscar <b>Tabela da Api</b> externa"
+
+#. Description of the plugin
+msgid "Handle the basics with this plugin."
+msgstr "Lida com o básico deste plugin"
+
+#. Author URI of the plugin
+msgid "https://author.example.com/"
+msgstr "https://author.example.com/"
+
+#. URI of the plugin
+msgid "https://example.com/plugins/the-basics/"
+msgstr "https://example.com/plugins/the-basics/"
+
+#. Name of the plugin
+msgid "MG plugin test"
+msgstr "MG Plugin teste"
+
+msgid "MG Test plugin"
+msgstr "MG Test connector"
+
+#. Author of the plugin
+msgid "Moises Gaspar"
+msgstr "Moisés Gaspar"
